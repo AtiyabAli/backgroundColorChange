@@ -1,0 +1,36 @@
+.body{
+    background-color: aqua;
+    height: 1100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    color: white;
+}
+.button{
+    display: flex;
+    justify-content: center;
+    
+}
+.button button{
+    padding: 20px;
+    margin: 20px;
+    border-radius: 20px;
+    border-width: 10px;
+}
+
+.red{
+    background-color: red;
+    color: rgb(23, 17, 5);
+    font-size: 20px;
+    
+}
+.blue{
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+}
+.green{
+    background-color: aquamarine;
+    font-size: 20px;
+}
